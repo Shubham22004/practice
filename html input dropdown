@@ -1,0 +1,8 @@
+<input list="coder">
+  <datalist id="coder">
+    <option value="html"></option>
+    <option value="css"></option>
+    <option value="js"></option>
+    <option value="java"></option>
+    <option value="python"></option>
+  </datalist> //for adding a input which contain drop down like i
